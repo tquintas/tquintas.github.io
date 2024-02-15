@@ -1,0 +1,3 @@
+[submodule "concelhodiario"]
+	path = concelhodiario
+	url = https://github.com/tquintas/concelhodiario.git
