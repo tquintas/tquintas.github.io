@@ -1,3 +1,6 @@
 [submodule "concelhodiario"]
 	path = concelhodiario
 	url = https://github.com/tquintas/concelhodiario.git
+[submodule "automovle"]
+	path = automovle
+	url = https://github.com/tquintas/automovle.git
