@@ -4,3 +4,6 @@
 [submodule "automovle"]
 	path = automovle
 	url = https://github.com/tquintas/automovle.git
+[submodule "tese_test"]
+	path = tese_test
+	url = https://github.com/tquintas/tese_test.git
